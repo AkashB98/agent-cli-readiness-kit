@@ -1,0 +1,1 @@
+{"declared_subcommands":["create","list"],"fixtures":[{"file":"good_cli.py","name":"good_cli"},{"file":"bad_dry_run_cli.py","name":"bad_dry_run_cli"},{"file":"bad_exit_cli.py","name":"bad_exit_cli"},{"file":"bad_idempotent_cli.py","name":"bad_idempotent_cli"},{"file":"bad_interactive_cli.py","name":"bad_interactive_cli"},{"file":"bad_json_cli.py","name":"bad_json_cli"}]}
